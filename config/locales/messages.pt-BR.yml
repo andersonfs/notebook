@@ -1,0 +1,15 @@
+"pt-BR":
+  messages:
+    confirm_destroy: Deseja realmente apagar?
+    listing: Listando
+    record: Cadastro de
+    save: Salvar
+    back: Voltar
+    created: Item Salvo com Sucesso
+    updated: Item Atulizado com Sucesso
+    destroyed: Item Apagado com Sucesso
+    app:
+      title: Bem Vindo à sua Agenda On-Line!
+    errors:
+      contact:
+        title: impediu/impediram que o contato fosse salvo
